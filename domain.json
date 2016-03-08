@@ -3,6 +3,9 @@
     "api": "http://api.9xiuxiu.org",
     "asset": "http://asset.9xiuxiu.org",
     "download": "http://download.9xiuxiu.org",
-    "web": "http://9xiuxiu.com"
+    "web": "http://9xiuxiu.com",
+    "admob_banner_home_unit_id": "ca-app-pub-9135592195291072/3803997746",
+    "admob_banner_photos_unit_id": "ca-app-pub-9135592195291072/3803997746",
+    "flurry_api_key": "RZS7FK7THZWQ9XC89SK4"
   }
 ]
