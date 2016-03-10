@@ -3,6 +3,7 @@
     "api": "http://api.9xiuxiu.org",
     "asset": "http://asset.9xiuxiu.org",
     "download": "http://download.9xiuxiu.org",
-    "web": "http://9xiuxiu.com"
+    "web": "http://9xiuxiu.com",
+    "level_limit": 1
   }
 ]
