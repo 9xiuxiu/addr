@@ -5,6 +5,7 @@
     "download": "http://download.9xiuxiu.org",
     "web": "http://9xiuxiu.com",
     "level_limit": 1,
+    "store_level_limit": 0,
     "mopub_native_ad_unit_id": "d6e6468dcfaf467b85cdfaeb2c30d6dc"
   }
 ]
