@@ -1,8 +1,8 @@
 [
   {
-    "api": "http://api.9xiuxiu.org",
-    "asset": "http://asset.9xiuxiu.org",
-    "download": "http://download.9xiuxiu.org",
+    "api": "http://api.9xiuxiu.com",
+    "asset": "http://asset.9xiuxiu.com",
+    "download": "http://download.9xiuxiu.com",
     "web": "http://9xiuxiu.com",
     "level_limit": 1,
     "store_level_limit": 0,
